@@ -8,3 +8,4 @@ Project for control home automation infrastructure.
 ## UI
 3. LCD 1602 with I2C interface.
 3. IR remote control.
+
